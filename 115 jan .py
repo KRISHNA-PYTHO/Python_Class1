@@ -71,3 +71,6 @@ factor = int(input("enter your number is factor: "))
 result = multiply_list_by_variable(my_list, factor)
 print(f"Original list: {my_list}")
 print(result)
+
+print()
+
